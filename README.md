@@ -1,4 +1,4 @@
-# flutterwidgetexamples
+# Flutter widget examples
 
 A new Flutter application.
 
